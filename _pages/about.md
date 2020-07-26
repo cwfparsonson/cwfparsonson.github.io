@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-I am a Ph.D. student researcher in communication networks. My research is focused on replacing electronic data centre networks with all-optical networks. I am interested in using machine learning and optimisation algorithms to improve optical data centre networks to the point where they have superior scalability, bandwidth, latency and power consumption to their electronic counterparts. Specifically, I am working on: (1) Using machine learning for combinatorial optimisation over large graphs applied to resource allocation and scheduling in optical data centres; (2) optimisation algorithms applied to ultra-fast optical switching. 
+I am a Ph.D. student communication networks researcher. My research is focused on replacing electronic data centre networks with all-optical networks. I am interested in using machine learning and optimisation algorithms to improve optical data centre networks to the point where they have vastly superior scalability, bandwidth, latency and power consumption relative to their electronic counterparts. Specifically, I am working on: (1) Using machine learning for combinatorial optimisation over large graphs applied to resource allocation and scheduling in optical data centres; (2) optimisation algorithms applied to ultra-fast optical switching. 
 </div>
 
 <br/><br/>
