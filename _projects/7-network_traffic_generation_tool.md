@@ -13,7 +13,7 @@ Data related to communication networks is often sensitve and proprietary. Conseq
 
 ## A Case in Point
 <div style="text-align: justify"> 
-In one Google DeepMind paper {% cite paliwal_2020 %}, researchers trained a graph neural network (GNN) to place operations (ops) onto machines for real TensorFlow computation (job) graphs. Placing ops and scheduling the tensors (flows) that pass between them is a common task for data centres, which often have many specialised high-bandwidth processing units and are therefore ideal for hosting large-scale machine learning inference and training. 
+In one Google DeepMind paper [1], researchers trained a graph neural network (GNN) to place operations (ops) onto machines for real TensorFlow computation (job) graphs. Placing ops and scheduling the tensors (flows) that pass between them is a common task for data centres, which often have many specialised high-bandwidth processing units and are therefore ideal for hosting large-scale machine learning inference and training. 
 
 <br/><br/>
 Google did not want to release real TensorFlow data. In an effort to aid reproducibility, the researchers published some characteristic distributions of the real graphs and released a database of 'synthetic' graphs. However, as shown in the image below, the distributions of the real and synthetic graphs are quite different. As such, benchmarking other systems on realistic TensorFlow graphs is not possible using only the synthetic dataset.   
@@ -91,33 +91,33 @@ Important computation job graph characteristics whose distributions should be sh
     
 
 <br/><br/>
-{% cite paliwal_2020 %}
+[1]
 {% include image.html url="/images/projects/network_traffic_generation_tool/num_nodes_comp.png" description="Reproducing number of nodes distribution." %}
 
 
 
 <br/><br/>
-{% cite paliwal_2020 %}
+[1]
 {% include image.html url="/images/projects/network_traffic_generation_tool/num_edges_comp.png" description="Reproducing number of edges distribution." %}
 
 
 <br/><br/>
-{% cite paliwal_2020 %}
+[1]
 {% include image.html url="/images/projects/network_traffic_generation_tool/graph_diam_comp.png" description="Reproducing graph diameter distribution." %}
 
 
 <br/><br/>
-{% cite paliwal_2020 %}
+[1]
 {% include image.html url="/images/projects/network_traffic_generation_tool/op_run_time_comp.png" description="Reproducing op run time distribution." %}
 
 
 <br/><br/>
-{% cite juan_2014 %}
+[1]
 {% include image.html url="/images/projects/network_traffic_generation_tool/job_interarrival_time_comp.png" description="Reproducing job interarrival time (IAT) distribution." %}
 
 
 <br/><br/>
-{% cite fang_2018 %}
+[1]
 {% include image.html url="/images/projects/network_traffic_generation_tool/src_dst_comp.png" description="Reproducing flow source-destination pair/op machine placement distribution." %}
 
 
@@ -129,7 +129,9 @@ Important computation job graph characteristics whose distributions should be sh
 
 
 ### References
-{% bibliography %}
+[1] A. Paliwal et al., *'Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs'*, *International Conference on Learning Representations (ICLR)*, 2020
+[2] D. -C. Juan et al., *'Beyond Poisson: Modeling Inter-Arrival Time of Requests in a Datacenter'*, *Advances in Knowledge Discovery and Data Mining (PAKDD)*, 2014
+[3] X. Fang et al., *'Analysis and Simulation of Traffic Patterns in Data Centres'*, *University College London Report*, 2018
 
 
 
