@@ -1,6 +1,6 @@
 ---
 title: "Ultra-Fast Optical Switch Optimisation"
-excerpt: "([View paper here](https://arxiv.org/pdf/2006.12165.pdf)) One of the primary bottlenecks to all-optical data centre networks is the lack of a packet-timescale switch. This project saw the application of AI techniques to switch semiconductor optical amplifiers in just half a nanosecond. AI beat the previous world-record by an order of magnitude and, for the first time, offered the potential to be scaled to thousands of switches in a real data centre.<br/><img src='/images/projects/ultrafast_optical_switch_optimisation/excerpt.png'>"
+excerpt: "([View paper here](https://arxiv.org/abs/2006.12165)) One of the primary bottlenecks to all-optical data centre networks is the lack of a packet-timescale switch. This project saw the application of AI techniques to switch semiconductor optical amplifiers in just half a nanosecond. AI beat the previous world-record by an order of magnitude and, for the first time, offered the potential to be scaled to thousands of switches in a real data centre.<br/><img src='/images/projects/ultrafast_optical_switch_optimisation/excerpt.png'>"
 collection: projects
 ---
 
@@ -8,7 +8,7 @@ collection: projects
 *My colleague Zacharaya Shabka and I co-authored this article to help describe our ultra-fast optical switching paper to a wide audience*
 <br/><br/>
 
-[View paper here](https://arxiv.org/pdf/2006.12165.pdf) 
+[View paper here](https://arxiv.org/abs/2006.12165) 
 <div style="text-align: justify"> 
 One of the primary bottlenecks to all-optical data centre networks is the lack of a packet-timescale switch. This project saw the application of AI techniques to switch semiconductor optical amplifiers in just half a nanosecond. AI beat the previous world-record by an order of magnitude and, for the first time, offered the potential to be scaled to thousands of switches in a real data centre.
 </div>
