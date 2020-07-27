@@ -72,6 +72,11 @@ Once the distributions have been shaped, the chosen distribution parameters can 
 <br/><br/>
 In the below example, all the characteristic distributions needed to describe machine learning job/computation graph demands in data centres are shaped with the tool using information from the literature. Then an example of how the traffic demand back-end module can be imported and configured to adopt the shaped attributes is shown. This is then integrated with a demo simulation environment in which an agent interacts with the data centre network and learns to schedule machine learning job graphs following an OpenAI Gym reinforcement learning framework. I hope to open-access both the traffic generation tool and the data centre reinforcement learning environment soon.
 
+
+<br/><br/>
+**N.B. If users wish to, rather than using the back-end traffic demand module to adopt the shaped distributions, they can export the distribution probability mass functions and/or the raw random variable data sampled from the shaped distributions as a .csv file. This can then be imported into their own simulations/scripts.**
+
+
 </div>
 
 
