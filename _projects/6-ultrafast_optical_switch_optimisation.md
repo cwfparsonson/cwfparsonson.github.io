@@ -35,9 +35,9 @@ The throttle power at each point in time can be plotted to show the signal that 
 
 </div>
 
-1. *Rise time*: The amount of time taken for the response signal to initially ascend from its lower to its higher value within some margin (e.g. 10% - 90% of final value, referred to as the 'steady state')
-2. *Settling time*: The amount of time taken for the response signal to be and remain within a certain margin of its final value (typically +/- 5% of the final value)
-3. *Overshoot*: The amount by which the signal exceeds the steady state value on its initial rise, given as a percentage of the excess relative to the desired signal value.
+1. **Rise time**: The amount of time taken for the response signal to initially ascend from its lower to its higher value within some margin (e.g. 10% - 90% of final value, referred to as the 'steady state')
+2. **Settling time**: The amount of time taken for the response signal to be and remain within a certain margin of its final value (typically +/- 5% of the final value)
+3. **Overshoot**: The amount by which the signal exceeds the steady state value on its initial rise, given as a percentage of the excess relative to the desired signal value.
 
 
 
