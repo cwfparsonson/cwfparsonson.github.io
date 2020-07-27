@@ -127,13 +127,8 @@ Important computation job graph characteristics whose distributions should be sh
 
 
 
-
 ### References
-[1] A. Paliwal et al., *'Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs'*, *International Conference on Learning Representations (ICLR)*, 2020
-[2] D. -C. Juan et al., *'Beyond Poisson: Modeling Inter-Arrival Time of Requests in a Datacenter'*, *Advances in Knowledge Discovery and Data Mining (PAKDD)*, 2014
-[3] X. Fang et al., *'Analysis and Simulation of Traffic Patterns in Data Centres'*, *University College London Report*, 2018
-
-
-
-
+1. A. Paliwal et al., *'Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs'*, *International Conference on Learning Representations (ICLR)*, 2020
+2. D. -C. Juan et al., *'Beyond Poisson: Modeling Inter-Arrival Time of Requests in a Datacenter'*, *Advances in Knowledge Discovery and Data Mining (PAKDD)*, 2014
+3. X. Fang et al., *'Analysis and Simulation of Traffic Patterns in Data Centres'*, *University College London Report*, 2018
 
