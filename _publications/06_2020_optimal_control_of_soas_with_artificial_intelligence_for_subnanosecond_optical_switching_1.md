@@ -11,5 +11,5 @@ citation: 'C. W. F. Parsonson, Z. Shabka, W. K. Chlupka, B. Goh and G. Zervas, &
 Abstract: Novel approaches to switching ultra-fast semiconductor optical amplifiers using artificial intelligence algorithms (particle swarm optimisation, ant colony optimisation, and a genetic algorithm) are developed and applied both in simulation and experiment. Effective off-on switching (settling) times of 542 ps are demonstrated with just 4.8% overshoot, achieving an order of magnitude improvement over previous attempts described in the literature and standard dampening techniques from control theory.
 </div>
 
-[Download paper here](https://arxiv.org/pdf/2006.12165.pdf)
+[View paper here](https://arxiv.org/pdf/2006.12165.pdf)
 
