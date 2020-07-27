@@ -22,18 +22,28 @@ Google did not want to release real TensorFlow data. In an effort to aid reprodu
 {% include image.html url="/images/projects/network_traffic_generation_tool/num_nodes_num_edges_paper_dists.png" description="Histogram distribution for the number of nodes (operations) in the real and synthetic TensorFlow job graphs." %}
 
 <br/><br/>
-This is just one of many encounters of distribution-related limitations networking researchers face when reading, reproducing and benchmarking against literture results; fragments of information that describe parts of the data which are difficult to piece together into a dataset which accurately mimics the real/original data. Is there a way that we can make this process quick and easy?
-
-
-
-
-## 
-
-
-
+This is just one of many encounters of distribution-related limitations networking researchers face when reading, reproducing and benchmarking literture results; fragments of information that describe parts of the data which are difficult to piece together into a dataset which accurately mimics the real/original data. How we can make this process quick and easy?
 
 
 </div>
+
+
+
+
+## A Visual Tool for Distribution Shaping
+
+
+
+
+
+
+## End-to-End Network Traffic Generation
+
+
+
+
+
+
 
 
 ### References
