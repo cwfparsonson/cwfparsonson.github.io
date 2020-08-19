@@ -31,7 +31,7 @@ The driver could put the throttle at full power, quickly restoring the speed of 
 Alternatively, the driver could slowly increase the throttle, paying attention to the car’s speed and keeping the throttle constant when the speed matches the target. While the car achieves the desired speed, it takes a while to do so. 
 
 <br/><br/>
-The throttle power at each point in time can be plotted to show the signal that 'controls' the car's speed. This signal can then be related to the performance of the car (I.e. its speed at each corresponding point in time). Therefore, the problem of ensuring the car maintains constant speed can be solved in terms of finding the optimal throttle signal that produces the best (most constant) car performance signal.The response of 'control systems' like these are typically characterised in terms of 3 key metrics:
+The throttle power at each point in time can be plotted to show the signal that 'controls' the car's speed. This signal can then be related to the performance of the car (I.e. its speed at each corresponding point in time). Therefore, the problem of ensuring the car maintains constant speed can be solved in terms of finding the optimal throttle signal that produces the best (most constant) car performance signal. The response of 'control systems' like these are typically characterised by 3 key metrics:
 
 </div>
 
@@ -45,13 +45,10 @@ The throttle power at each point in time can be plotted to show the signal that 
 
 <div style="text-align: justify">
 
-Information can be encoded in many different media. It has long been known that light waves/photons are the best medium for encoding and communicating information 
+Information can be encoded in many different media. It has long been known that light waves/photons are the best medium for encoding and communicating information. Light is usually communicated by passing it through a glass fibre. But how do we control where the light goes such that the information ends up at, and only at, the desired destination? The answer is with a switch. 
 
 <br/><br/>
-Light is usually communicated by passing it through a glass fibre. But how do we control where the light goes such that the information ends up at, and only at, the desired destination? The answer is with a switch. 
-
-<br/><br/>
-Optical networks already dominate some areas of communication such as the large fibre optic cables on the seabed that allow internet data to flow across the Atlantic between the USA and Europe. Although we refer to these networks as optical, in fact they are partially still electronic. This is because at each mid-way point/node in the network, the optical signal must be converted to an electronic signal as the information is switched towards its destination. In long-haul communication, the data flows (packets of data being sent) are long and so don’t have to be routed often, meaning network switches do not have to be able to reconfigure/switch the light at high speeds. In data centres, on the other hand, data flows are typically on the order of 10 ns, so slow switches will mean that more time is spent waiting for the network to reconfigure between flows than is spent allowing the flows to be transported. The time it takes to reconfigure the network relative to the length of the data packet is referred to as the switching overhead and leads to unacceptable latencies in data centre. To solve this, fast switches capable of all-optical switching (i.e. no overhead needed for optical-electrical-optical signal conversion) are needed. 
+Optical networks already dominate modern communication networks such as the large fibre optic cables on the seabed that allow internet data to flow across the Atlantic between the USA and Europe. Although we refer to these networks as optical, in fact they are partially still electronic. This is because at each mid-way point/node in the network, the optical signal must be converted to an electronic signal as the information is switched towards its destination. In long-haul communication, the data flows (packets of data being sent) are long and so don’t have to be routed often, meaning network switches do not have to be able to reconfigure/switch the light at high speeds. In data centres, on the other hand, data flows are typically on the order of 10 ns, so slow switches will mean that more time is spent waiting for the network to reconfigure between flows than is spent allowing the flows to be transported. The time it takes to reconfigure the network relative to the length of the data packet is referred to as the switching overhead and leads to unacceptable latencies in data centres. To solve this, fast switches capable of all-optical switching (i.e. no overhead needed for optical-electrical-optical signal conversion) are needed. 
 
 <br/><br/>
 The most promising technology for ultra-fast all-optical switching is the 'semiconductor optical amplifier' (SOA). SOAs are relatively simple ‘amplification’ devices, and work in the same way as common everyday lasers; they use the quantum mechanical effects of spontaneous emission, stimulated emission, and stimulated absorption to amplify light and to operate as optical switches and wavelength converters. They typically have the following structure: 
@@ -75,7 +72,7 @@ To route light along a specific path, one SOA can be placed on each possible pat
 {% include image.html url="/images/projects/ultrafast_optical_switch_optimisation/soa_based_switch_device.png" description="Diagram of how SOAs can be used in an SOA-based optical switch system." %}
 
 <br/><br/>
-Since SOAs are an all-optical technology, they do not need to undergo optical-electrical-optical conversion like conventional electronic switches, which is a major bottleneck for switching speeds. In theory, the switching speed of an SOA switch is limited by the carrier recombination lifetime (how long it takes a hole and an electron to recombined), which is on the order of a hundred picoseconds. As such, SOA switches open the possibility of ultra-fast sub-nanosecond switching, thereby reducing network latency and enable optical data centre networks.
+Since SOAs are an all-optical technology, they do not need to undergo optical-electrical-optical conversion like conventional electronic switches, which is a major bottleneck for switching speeds. In theory, the switching speed of an SOA switch is limited by the carrier recombination lifetime (how long it takes a hole and an electron to recombined), which is on the order of a hundred picoseconds. As such, SOA switches open the possibility of ultra-fast sub-nanosecond switching, thereby reducing network latency and enabling all-optical data centre networks.
 
 
 </div>
@@ -92,7 +89,7 @@ Since SOAs are an all-optical technology, they do not need to undergo optical-el
 Much like the control problem with cruise control systems in cars, applying a simple electrical signal to turn ‘on’ an SOA results in overshoot, rise time and settling time issues. 
 
 <br/><br/>
-The switch speed (off-on time) of an SOA is typically characterised in terms of rise time. However, due to various intereactions within the SOA, a fast rise time typically leads to ‘ringing’ (oscillations around the steady state value) as described in relation to cars using cruise control. This ringing is not accounted for in the rise time metric. The rise time typically occurs on the order of hundreds of picoseconds, but the ringing can persist for the order of nanoseconds (see red curve in the figure below). 
+The switch speed (off-on time) of an SOA is typically characterised in terms of rise time. However, due to various interactions within the SOA, a fast rise time typically leads to ‘ringing’ (oscillations around the steady state value) as described in relation to cars using cruise control. This ringing is not accounted for in the rise time metric. The rise time typically occurs on the order of hundreds of picoseconds, but the ringing can persist for the order of nanoseconds (see red curve in the figure below). 
 
 
 
@@ -101,14 +98,14 @@ The switch speed (off-on time) of an SOA is typically characterised in terms of 
 If SOAs are applied to signals on which data is to be encoded, significant ringing can mean that the encoded symbols cannot be easily read and/or distinguished, since the value of the SOA output is inconsistent. This introduces noise/errors into the data communication and means that the SOA can not realistically be used. 
 
 <br/><br/>
-Characterising SOA switching speed in terms of settling time is therefore more useful. If the SOA has settled, then it’s output power level is consistent within a defined margin, meaning that data can be reliably transferred with that signal. In a data centre, data packets are quite short, typically lasting for about ~20 nanoseconds. The network needs to be able to re-configure in some way for each packet. If this takes significantly longer than the duration of the packet, then the network spends more time re-configuring then it does transmitting, meaning it is incredibly inefficient.   This therefore motivates the goal of finding a driving signal that can reduce the SOA switching speed (as given by the settling time, not rise time) as much as possible. This is equivalent to finding an SOA driving signal that produces an SOA output that close to a perfect step. 
+Characterising SOA switching speed in terms of settling time is therefore more useful. If the SOA has settled, then it’s output power level is consistent within a defined margin, meaning that data can be reliably transferred with that signal. In a data centre, data packets are quite short, typically lasting for about ~20 nanoseconds. The network needs to be able to re-configure in some way for each packet. If this takes significantly longer than the duration of the packet, then the network spends more time re-configuring then it does transmitting, meaning it is incredibly inefficient.   This therefore motivates the goal of finding a driving signal that can reduce the SOA switching speed (as given by the settling time, not rise time) as much as possible. This is equivalent to finding an SOA driving signal that produces an SOA output close to that of a perfect step signal. 
 
 <br/><br/>
-Some key considerations guide our work in finding an appropriate way of optimising SOAs: 
+Some key considerations guided our work in finding an appropriate way of optimising SOAs: 
 </div>
 
 <br/><br/>
-- In the context of large DC networks, the method must be easily applicable to 100,000s or more SOA (e.g. not require meticulous hand-tuning upon each application instance) 
+- In the context of large DC networks, the method must be easily applicable to 100,000s or more SOA (i.e. the method cannot require meticulous hand-tuning upon each application instance) 
 - Results must be consistent across different types of SOAs 
 
 <div style="text-align: justify">
