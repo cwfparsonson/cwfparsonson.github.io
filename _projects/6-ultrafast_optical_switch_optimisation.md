@@ -1,6 +1,6 @@
 ---
 title: "Ultra-Fast Optical Switch Optimisation"
-excerpt: "([Paper](https://ieeexplore.ieee.org/document/9124678?arnumber=9124678)) ([GitHub](https://github.com/cwfparsonson/soa_driving)) ([Documentation](https://soa-driving.readthedocs.io/en/latest/))
+excerpt: "([Paper One](https://ieeexplore.ieee.org/document/9124678?arnumber=9124678)) ([Paper Two](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-7-11221&id=449558)) ([GitHub](https://github.com/cwfparsonson/soa_driving)) ([Documentation](https://soa-driving.readthedocs.io/en/latest/))
 One of the primary 
 bottlenecks to all-optical data centre networks is the lack of a packet-timescale 
 switch. This project saw the application of AI techniques to switch semiconductor 
