@@ -23,15 +23,13 @@ redirect_from:
    -->
 
 <div style="text-align: justify"> 
-I am a communication networks Ph.D. student. My research is focused on improving 
-resource allocation in computer networks. In particular, I am interested in 
-using machine learning and optimisation algorithms to improve optical computer
-networks to the point where they have vastly superior scalability, bandwidth, 
-latency and power consumption relative to their electronic counterparts. 
-Specifically, I am working on: (1) Using machine learning for combinatorial 
-optimisation over large graphs applied to resource allocation 
-in optical data centre networks and distributed deep learning clusters; 
-(2) optimisation algorithms applied to ultra-fast optical switching; and (3) benchmarking.
+I am a Ph.D. student working on communication networks, machine learning, and
+optimisation.  My research is focused on solving NP-hard discrete optimisation
+problems with AI, particularly with the use of reinforcement learning and graph
+neural networks. My specific research interests include: (1) Machine learning
+for combinatorial optimisation over graphs; (2) resource allocation in optical
+data centre networks and distributed deep learning clusters; (3) optimisation
+algorithms applied to ultra-fast optical switching; and (4) benchmarking.
 </div>
 
 
