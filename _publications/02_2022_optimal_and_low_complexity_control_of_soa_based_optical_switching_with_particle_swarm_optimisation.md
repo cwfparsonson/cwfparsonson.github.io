@@ -2,10 +2,10 @@
 title: "Optimal and Low Complexity Control of SOA-Based Optical Switching with Particle Swarm Optimisation"
 collection: publications
 permalink: /publication/02_2022_optimal_and_low_complexity_control_of_soa_based_optical_switching_with_particle_swarm_optimisation
-date: 2022-07-01
-venue: European Conference on Optical Communication Networks
+date: 2022-02-01
+venue: European Conference on Optical Communication Networks (ECOC'22)
 paperurl: https://opg.optica.org/abstract.cfm?uri=ECEOC-2022-Tu3C.5
-citation: 'H. Alkharsan, C. W. F. Parsonson, Z. Shabka, X. Mu, A. Ottino and G. Zervas, &quot;Optimal and Low Complexity Control of SOA-Based Optical Switching with Particle Swarm Optimisation&quot;, *European Conference on Optical Communicaiton*, July 2022'
+citation: 'H. Alkharsan, C. W. F. Parsonson, Z. Shabka, X. Mu, A. Ottino and G. Zervas, &quot;Optimal and Low Complexity Control of SOA-Based Optical Switching with Particle Swarm Optimisation&quot;, ECOC'22: European Conference on Optical Communicaiton, July 2022'
 ---
 <div style="text-align: justify"> 
 We propose a reliable, low-complexity particle swarm optimisation (PSO)

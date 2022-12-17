@@ -5,7 +5,7 @@ permalink: /publication/03_2022_traffic_generation_for_benchmarking_data_centre_
 date: 2022-06-01
 venue: Optical Switching and Networking
 paperurl: https://www.sciencedirect.com/science/article/pii/S1573427722000315
-citation: 'C. W. F. Parsonson, J. L. Benjamin and G. Zervas, &quot;Traffic Generation for Benchmarking Data Centre Networks&quot;, *Optical Switching and Networking*, June 2022'
+citation: 'C. W. F. Parsonson, J. L. Benjamin and G. Zervas, &quot;Traffic Generation for Benchmarking Data Centre Networks&quot;, Optical Switching and Networking, 2022'
 ---
 <div style="text-align: justify"> 
 Benchmarking is commonly used in research fields, such as computer architecture

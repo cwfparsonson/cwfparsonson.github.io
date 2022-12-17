@@ -5,7 +5,7 @@ permalink: /publication/04_2022_learning_to_solve_combinatorial_graph_partitioni
 date: 2022-07-01
 venue: Under peer review
 paperurl: https://arxiv.org/abs/2205.14105
-citation: 'T. D. Barrett, C. W. F. Parsonson and A. Laterre &quot;Learning to Solve Combinatorial Graph Partitioning Problems via Efficient Exploration&quot;, *Under peer review*, July 2022'
+citation: 'T. D. Barrett, C. W. F. Parsonson and A. Laterre &quot;Learning to Solve Combinatorial Graph Partitioning Problems via Efficient Exploration&quot;, Under peer review, 2022'
 ---
 <div style="text-align: justify"> 
 From logistics to the natural sciences, combinatorial optimisation on graphs
