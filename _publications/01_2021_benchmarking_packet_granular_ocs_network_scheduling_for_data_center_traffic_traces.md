@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/01_2021_benchmarking_packet_granular_ocs_network_scheduling_for_data_center_traffic_traces
 date: 2022-07-01
 venue: Photonic Networks and Devices
-paperurl: To be added soon.
+paperurl: https://opg.optica.org/abstract.cfm?uri=Networks-2021-NeW3B.3
 citation: 'Joshua L. Benjamin, Christopher W. F. Parsonson, and G. Zervas &quot;Benchmarking Packet-Granular OCS Network Scheduling for Data Center Traffic Traces&quot;, Photonic Networks and Devices, 2021'
 ---
 <div style="text-align: justify"> 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/07_2022_a_vectorised_packing_algorithm_for_efficient_generation_of_custom_traffic_traces
 date: 2022-07-01
 venue: Under peer review
-paperurl: To be added soon.
+paperurl: Link to be added soon.
 citation: 'C. W. F. Parsonson, Joshua L. Benjamin, and G. Zervas &quot;A Vectorised Packing Algorithm for Efficient Generation of Custom Traffic Matrices&quot;, OFC’23: Optical Fiber Communications Conference and Exhibition, 2023'
 ---
 <div style="text-align: justify"> 
