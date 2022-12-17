@@ -3,9 +3,9 @@ title: "Reinforcement Learning for Branch-and-Bound Optimisation using Retrospec
 collection: publications
 permalink: /publication/05_2022_reinforcement_learning_for_branch_and_bound_optimisation_using_retrospective_trajectories
 date: 2022-08-01
-venue: Under peer review
+venue: AAAI'23: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence
 paperurl: https://arxiv.org/abs/2205.14345?context=cs
-citation: 'C. W. F. Parsonson, A. Laterre and T. D. Barrett &quot;Reinforcement Learning for Branch-and-Bound Optimisation using Retrospective Trajectories&quot;, *Under peer review*, August 2022'
+citation: 'C. W. F. Parsonson, A. Laterre and T. D. Barrett &quot;Reinforcement Learning for Branch-and-Bound Optimisation using Retrospective Trajectories&quot;, AAAI'23: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence, 2023'
 ---
 <div style="text-align: justify"> 
 Combinatorial optimisation problems framed as mixed integer linear programmes

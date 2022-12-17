@@ -85,10 +85,11 @@ author:
   name             : "Christopher W. F. Parsonson"
   avatar           : "profile.png"
   bio              : "AI & Networks Ph.D. Student"
-  location         : "London, United Kingdom"
+  #location         : "London, United Kingdom"
+  location         :
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=2Vw7d64AAAAJ&hl=en"
   email            : "cwfparsonson@gmail.com"
   researchgate     : 
   uri              :
