@@ -5,7 +5,7 @@ permalink: /publication/02_2023_reinforcement_learning_for_branch_and_bound_opti
 date: 2023-02-01
 venue: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)
 paperurl: https://arxiv.org/abs/2205.14345?context=cs
-citation: 'C. W. F. Parsonson, A. Laterre and T. D. Barrett &quot;Reinforcement Learning for Branch-and-Bound Optimisation using Retrospective Trajectories&quot;, AAAI'23: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence, 2023'
+citation: 'C. W. F. Parsonson, A. Laterre and T. D. Barrett &quot;Reinforcement Learning for Branch-and-Bound Optimisation using Retrospective Trajectories&quot;, AAAI-23: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence, 2023'
 ---
 <div style="text-align: justify"> 
 Combinatorial optimisation problems framed as mixed integer linear programmes
