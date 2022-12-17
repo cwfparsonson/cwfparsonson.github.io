@@ -3,7 +3,7 @@ title: "Reinforcement Learning for Branch-and-Bound Optimisation using Retrospec
 collection: publications
 permalink: /publication/03_2023_reinforcement_learning_for_branch_and_bound_optimisation_using_retrospective_trajectories
 date: 2023-02-01
-venue: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI'23)
+venue: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)
 paperurl: https://arxiv.org/abs/2205.14345?context=cs
 citation: 'C. W. F. Parsonson, A. Laterre and T. D. Barrett &quot;Reinforcement Learning for Branch-and-Bound Optimisation using Retrospective Trajectories&quot;, AAAI'23: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence, 2023'
 ---
