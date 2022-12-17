@@ -5,7 +5,7 @@ permalink: /publication/06_2022_partitioning_distributed_compute_jobs_with_reinf
 date: 2022-09-01
 venue: Under peer review
 paperurl: To be added soon.
-citation: 'C. W. F. Parsonson and G. Zervas &quot;Partitioning Distributed Compute Jobs with Reinforcement Learning and Graph Neural Networks&quot;, *Under peer review*, September 2022'
+citation: 'C. W. F. Parsonson and G. Zervas &quot;Partitioning Distributed Compute Jobs with Reinforcement Learning and Graph Neural Networks&quot;, *Under peer review*, 2022'
 ---
 <div style="text-align: justify"> 
 From natural language processing to genome sequencing, large-scale machine
@@ -20,7 +20,7 @@ However, such studies omit explicit consideration of *how much* a job
 should be distributed, usually assuming that maximum distribution is desirable.
 In this work, we show that maximum parallelisation is sub-optimal in relation
 to user-critical metrics such as throughput and blocking rate. To address this,
-we propose PAC-ML (**p**artitioning for **a**synchronous **c**omputing with **m**achine **l**earning), which leverages a
+we propose PAC-ML (partitioning for asynchronous computing with machine learning), which leverages a
 graph neural network and reinforcement learning to learn how much to
 partition computation graphs such that the number of jobs which meet arbitrary
 user-defined JCT requirements is maximised. In experiments with five real deep
