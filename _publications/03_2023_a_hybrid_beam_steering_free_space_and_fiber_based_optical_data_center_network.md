@@ -3,7 +3,7 @@ title: "A Hybrid Beam Steering Free-Space and Fiber Based Optical Data Center Ne
 collection: publications
 permalink: /publication/03_2023_a_hybrid_beam_steering_free_space_and_fiber_based_optical_data_center_network
 date: 2023-03-01
-venue: Under peer review
+venue: 'Journal of Lightwave Technology (JLT)'
 paperurl: Link to be added soon
 citation: 'Y. Liu, J. L. Benjamin, C. W. F. Parsonson, and G. Zervas &quot;A Hybrid Beam Steering Free-Space and Fiber Based Optical Data Center Network&quot;, Under peer review, 2023'
 ---
