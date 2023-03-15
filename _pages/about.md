@@ -34,6 +34,8 @@ novel algorithmic solutions to real-world problems.
 </div>
 
 
+<br/><br/>
+
 <div style="text-align: justify"> 
 
 Currently, I am finishing a PhD in communication networks, artificial
