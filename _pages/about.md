@@ -31,13 +31,13 @@ code, and publishing, reviewing, and winning awards in top outlets such as
 AAAI, NeurIPS, ICML, JLT, and OFC. I have conceptualised and deployed multiple
 novel algorithmic solutions to real-world problems.  
   
-
+  
 </div>
 
 
 <div style="text-align: justify"> 
-
-Currently, I am finishing a PhD in communication networks, artificial
+  
+  Currently, I am finishing a PhD in communication networks, artificial
 intelligence, and optimisation. My research is focused on solving NP-hard
 discrete optimisation problems with the use of reinforcement learning, graph
 neural networks, swarm, and evolutionary algorithms. My specific research
