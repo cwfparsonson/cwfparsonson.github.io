@@ -29,12 +29,11 @@ communication network research and development. I have a proven track record
 developing state-of-the-art algorithms, open-sourcing high-quality research
 code, and publishing, reviewing, and winning awards in top outlets such as
 AAAI, NeurIPS, ICML, JLT, and OFC. I have conceptualised and deployed multiple
-novel algorithmic solutions to real-world problems.
+novel algorithmic solutions to real-world problems.  
+  
 
 </div>
 
-
-<br/><br/>
 
 <div style="text-align: justify"> 
 
@@ -53,6 +52,6 @@ optical switching; and (4) developing open source tools for benchmarking.
 <br/><br/>
 
 
-You can email me at cwfparsonson@gmail.com
+You can email me at [cwfparsonson@gmail.com](mailto:cwfparsonson@gmail.com)
 
 
