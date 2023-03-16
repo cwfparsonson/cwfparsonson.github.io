@@ -25,12 +25,12 @@ redirect_from:
 
 <div style="text-align: justify"> 
 
-I have 5+ years experience in artificial intelligence, machine learning, and
-communication network research and development. I have a proven track record
-developing state-of-the-art algorithms, open-sourcing high-quality research
-code, and publishing, reviewing, and winning awards in top outlets such as
-AAAI, NeurIPS, ICML, JLT, and OFC. I have conceptualised and deployed multiple
-novel algorithmic solutions to real-world problems.
+5+ years experience in artificial intelligence, machine learning, and
+communication network research and development. Proven track record developing
+state-of-the-art algorithms, open-sourcing high-quality research code, and
+publishing, reviewing, and winning awards in top outlets such as AAAI, NeurIPS,
+ICML, JLT, and OFC. Conceptualised and deployed multiple novel algorithmic
+solutions to real-world problems.
   
 </div>
 
@@ -38,14 +38,14 @@ novel algorithmic solutions to real-world problems.
 
 <div style="text-align: justify"> 
 
-Currently, I am finishing a PhD in communication networks, artificial
-intelligence, and optimisation. My research is focused on solving NP-hard
-discrete optimisation problems with the use of reinforcement learning, graph
-neural networks, swarm, and evolutionary algorithms. My specific research
-interests include: (1) machine learning for combinatorial optimisation over
-graphs; (2) resource allocation in optical data centre networks and distributed
-deep learning clusters; (3) optimisation algorithms applied to ultra-fast
-optical switching; and (4) developing open source tools for benchmarking.
+Currently finishing a PhD in communication networks, artificial intelligence,
+and optimisation. Research focused on solving NP-hard discrete optimisation
+problems with the use of reinforcement learning, graph neural networks, swarm,
+and evolutionary algorithms. Specific research interests include: (1) machine
+learning for combinatorial optimisation over graphs; (2) resource allocation in
+optical data centre networks and distributed deep learning clusters; (3)
+optimisation algorithms applied to ultra-fast optical switching; and (4)
+developing open source tools for benchmarking.
 
 </div>
 
