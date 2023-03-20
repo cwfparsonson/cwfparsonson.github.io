@@ -53,5 +53,5 @@ developing open source tools for benchmarking.
 <br/><br/>
 
 
-You can email me at [cwfparsonson@gmail.com](mailto:cwfparsonson@gmail.com)
+Email: [cwfparsonson@gmail.com](mailto:cwfparsonson@gmail.com)
 
