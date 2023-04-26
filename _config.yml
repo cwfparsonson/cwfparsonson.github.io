@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Christopher W. F. Parsonson"
   avatar           : "profile.png"
-  bio              : "AI & Networks Ph.D. Student"
+  bio              : "Machine Learning PhD at UCL | Prev: The Alan Turing Institute, InstaDeep, Dyson - MRes at University of Cambridge, MEng at Imperial College London"
   #location         : "London, United Kingdom"
   location         :
   employer         :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/cwfparsonson"
   vine             :
   weibo            :
   xing             :
